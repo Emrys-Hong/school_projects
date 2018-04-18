@@ -30,8 +30,10 @@ using machine learnning algo to detect whether there is a thymio( car ) on the r
 machine learning:
 using faster_rcnn model established by tensorflow, to train the neural net on GTX 1070.
 the code package can be find here if you want to use the trained model.
+
 https://www.dropbox.com/sh/565jqna54vtm7en/AACn-baVOl4WvX8ajgOTs9x_a?dl=0
 follow the tutorial:
+
 https://www.youtube.com/watch?v=Rgpfk6eYxJA&t=1065s
 the result is robust, and can detect thymio in all aspects and all kinds of condition, such as shaded.
 
