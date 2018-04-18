@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Photo 16-4-18, 6 13 11 PM.jpg</filename>
+	<path>/home/emrys/tensorflow1/models/research/object_detection/images/train/Photo 16-4-18, 6 13 11 PM.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>306</width>
+		<height>306</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thymio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>117</ymin>
+			<xmax>180</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>
