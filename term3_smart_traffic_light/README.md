@@ -45,4 +45,4 @@ this is some of my training photos:
 used opencv to detect color cause we cannot ditinguish the direction of the thymio(which road is the thymio at) if only use rcnn.
 
 the trainning result is pretty decent:
-![alt text]()
+![alt text](https://github.com/Emrys-Hong/school_projects/blob/master/term3_smart_traffic_light/demo_photos/Photo%2017-4-18%2C%201%2014%2036%20AM.jpg)
