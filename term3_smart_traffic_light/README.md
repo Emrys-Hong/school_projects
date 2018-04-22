@@ -40,7 +40,7 @@ the result is robust, and can detect thymio in all aspects and all kinds of cond
 this is some of my training photos:
 ![alt text](https://github.com/Emrys-Hong/school_projects/blob/master/term3_smart_traffic_light/demo_photos/Photo%2016-4-18%2C%206%2036%2058%20PM.jpg)
 ![alt text](https://github.com/Emrys-Hong/school_projects/blob/master/term3_smart_traffic_light/demo_photos/Photo%2016-4-18%2C%206%2037%2051%20PM.jpg)
-![alt text]()
+![alt text](https://github.com/Emrys-Hong/school_projects/blob/master/term3_smart_traffic_light/demo_photos/Photo%2016-4-18%2C%206%2039%2019%20PM.jpg)
 
 used opencv to detect color cause we cannot ditinguish the direction of the thymio(which road is the thymio at) if only use rcnn.
 
