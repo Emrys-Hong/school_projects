@@ -37,5 +37,10 @@ https://www.youtube.com/watch?v=Rgpfk6eYxJA&t=1065s
 
 used 276 pictures of thymio to train the model to recognize thymio.
 the result is robust, and can detect thymio in all aspects and all kinds of condition, such as shaded.
+this is some of my training photos:
+![alt text](https://github.com/Emrys-Hong/school_projects/blob/master/term3_smart_traffic_light/demo_photos/Photo%2016-4-18%2C%206%2036%2058%20PM.jpg)
 
 used opencv to detect color cause we cannot ditinguish the direction of the thymio(which road is the thymio at) if only use rcnn.
+
+the trainning result is pretty decent:
+![alt text]()
